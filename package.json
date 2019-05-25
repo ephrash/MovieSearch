@@ -1,0 +1,17 @@
+{
+  "name": "moviesearch",
+  "version": "1.0.0",
+  "description": "Movie search program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "git": "https://github.com/ephrash/MovieSearch.git",
+  "author": "Ephrash M",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "request": "^2.88.0"
+  }
+}
